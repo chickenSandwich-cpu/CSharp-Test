@@ -1,8 +1,8 @@
-﻿
-double x = 2.5;
-int y = (int)x; // Explicit cast from double to int
-int z = Convert.ToInt32(x); // Convert double to int using Convert class
+﻿Console.Write("Enter the first side: ");
+double side1 = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine(x);
-Console.WriteLine(y);
-Console.WriteLine(z);
+Console.Write("Enter the second side: ");
+double side2 = Convert.ToDouble(Console.ReadLine());
+
+double side3 = Math.Sqrt(Math.Pow(side1, 2) + Math.Pow(side2, 2));
+Console.WriteLine($"The length of the hypotenuse is: {side3}");
