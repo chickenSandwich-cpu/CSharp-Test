@@ -7,7 +7,7 @@ Timeline:
 - May 20th: 46:35
 - May 21st: 1:46:53  **note: i would like to do a speedrun from here**
 - May 22nd: 2:25:23  **note: the params keyword to replace multiple overloading methods that serve the same purpose**
-- May 23rd:
+- May 23rd: 2:25:23  **note: didnt watch**
 - May 24th:
 - May 25th: 
 (updating...)
